@@ -1,0 +1,2 @@
+# gotourl
+Ke halaman safelink
